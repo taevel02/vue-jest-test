@@ -1,2 +1,0 @@
-{"/Users/taehoon/workshop/vue-test-jest/src/App.vue": {"path":"/Users/taehoon/workshop/vue-test-jest/src/App.vue","statementMap":{"0":{"start":{"line":26,"column":0},"end":{"line":26,"column":null}}},"fnMap":{"0":{"name":"data","decl":{"start":{"line":25,"column":0},"end":{"line":25,"column":null}},"loc":{"start":{"line":25,"column":0},"end":{"line":29,"column":null}}}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{}}
-}
